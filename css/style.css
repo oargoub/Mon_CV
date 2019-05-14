@@ -1,6 +1,16 @@
-h1,h3
+h1,h5
 {
 
 color:white;
 font-family: 'EB Garamond', serif;
+}
+img{
+    font-size:12px;
+}
+li,p{
+    font-family: 'Rasa', serif;
+}
+.date
+{
+font-family: 'Cinzel', serif;
 }
