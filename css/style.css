@@ -18,8 +18,10 @@ font-size: 13px;
 }
 .pic
 {
-font-size:10 px;
-height:10 px;
+width:150px;
+height:150px;
+float:right;
+margin-top:-80px;
 }
 
 
@@ -28,6 +30,7 @@ height:10 px;
     text-align: center;
     font-family: 'Maiden Orange', cursive;
     font-family: 'Teko', sans-serif;
+    height: 20 px;
 
 
 }
