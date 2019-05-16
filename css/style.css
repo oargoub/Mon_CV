@@ -15,15 +15,26 @@ li,p{
 font-style: italic;
 font-family: 'Cinzel', serif;
 font-size: 13px;
-.pic{
-width:10px;
-height:10px;
+}
+.pic
+{
+font-size:10 px;
+height:10 px;
 }
 
-}
+
 .skills{
     background-color: aliceblue;
     text-align: center;
+    font-family: 'Maiden Orange', cursive;
+    font-family: 'Teko', sans-serif;
 
+
+}
+.poste
+{
+    font-family: 'Volkhov', serif;
+    color: rgba(40, 73, 221);
+    margin-bottom: 100 px;
 
 }
